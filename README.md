@@ -8,60 +8,97 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mani-enayati">
-    <img src="https://img.shields.io/badge/LinkedIn-Mani%20Enayati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Mani%20Enayati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:manii.enayati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manii.enayati%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-manii.enayati%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/ManiEnayati">
+    <img
+      src="https://img.shields.io/badge/GitHub-ManiEnayati-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
-- 🎓 I’m a **B.Sc. Computer Engineering student** at Imam Khomeini International University.
-- 💻 I build backend applications with **Java, Spring Boot, Python, and Django**.
-- 🧑‍💼 I completed a **Java Developer Internship** at Behpardaz Hamrah Samaneh Aval (Behsa).
-- 🌱 I’m currently improving my skills in **REST APIs, databases, testing, and Docker**.
-- 💬 Ask me about **Java, Spring Boot, Django, and backend development**.
-- ⚡ I enjoy turning complex problems into clean, maintainable software.
+---
 
-<h3 align="left">My Tech Stack</h3>
+### About Me
+
+- 🎓 I am a **B.Sc. Computer Engineering student** at Imam Khomeini International University.
+- 💻 I build backend applications using **Java, Spring Boot, Python, and Django**.
+- 🧑‍💼 I completed a **Java Developer Internship** at Behpardaz Hamrah Samaneh Aval — Behsa.
+- 🌱 I am currently improving my skills in **REST APIs, databases, software testing, and Docker**.
+- 💬 Ask me about **Java, Spring Boot, Django, and backend development**.
+- ⚡ I enjoy transforming complex problems into clean, maintainable software solutions.
+
+---
+
+### My Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=java,python,c,spring,django,postgres,mysql,docker,git,github,postman,figma,html,css&theme=dark&perline=10"
-      alt="My technical skills"
+      alt="Mani Enayati technical skills"
     />
   </a>
 </p>
 
-<h3 align="left">Selected Projects</h3>
+---
 
-- **[SalarySystem](https://github.com/ManiEnayati/SalarySystem)** — Java desktop application for managing organizations, departments, employees, salary types, and persisted records.
-- **[SpringLogX](https://github.com/ManiEnayati/SpringLogX)** — Spring Boot logging project using Log4j2, structured JSON logs, and a Kafka appender.
-- **[Django Multi-Page Website](https://github.com/ManiEnayati/first-site)** — Django website with reusable templates, static assets, multiple pages, and a blog application.
+### Selected Projects
 
-<h3 align="left">GitHub Activity</h3>
+#### [SalarySystem](https://github.com/ManiEnayati/SalarySystem)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ManiEnayati/ManiEnayati/refs/heads/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ManiEnayati/ManiEnayati/refs/heads/github-breakout/images/breakout-light.svg"
-  />
+Java desktop application for managing organizations, departments, employees, salary types, and persisted employee records.
+
+**Technologies:** Java, Swing, OOP, File Handling
+
+---
+
+#### [SpringLogX](https://github.com/ManiEnayati/SpringLogX)
+
+Spring Boot logging project that demonstrates structured application logging using Log4j2 and asynchronous log delivery to Kafka.
+
+**Technologies:** Java, Spring Boot, Log4j2, Apache Kafka, Maven
+
+---
+
+#### [Django Multi-Page Website](https://github.com/ManiEnayati/first-site)
+
+Multi-page Django website with reusable templates, static assets, URL routing, and a separate blog application.
+
+**Technologies:** Python, Django, HTML, CSS
+
+---
+
+### GitHub Activity
+
+<p align="center">
   <img
+    src="https://raw.githubusercontent.com/ManiEnayati/ManiEnayati/github-breakout/images/breakout-custom.svg?v=6"
     alt="GitHub contribution Breakout animation"
-    src="https://raw.githubusercontent.com/ManiEnayati/ManiEnayati/refs/heads/github-breakout/images/breakout-light.svg"
+    width="100%"
   />
-</picture>
+</p>
+
+---
 
 <h2 align="center">My Visitors</h2>
 
 <p align="center">
   <img
     src="https://count.getloli.com/@ManiEnayati?name=ManiEnayati&theme=booru-vp&padding=7&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1"
-    alt="Profile visitor counter"
+    alt="Mani Enayati profile visitor counter"
   />
 </p>
 
@@ -69,6 +106,6 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=110&section=footer"
     width="100%"
-    alt=""
+    alt="Footer"
   />
 </p>
