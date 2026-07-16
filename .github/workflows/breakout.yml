@@ -41,4 +41,4 @@ jobs:
           mv /tmp/breakout-images/* images/
           git add images
           git commit -m "chore: update GitHub Breakout SVGs" || echo "No changes to commit"
-          git push --force origin github-brea
+          git push --force origin github-breakout
