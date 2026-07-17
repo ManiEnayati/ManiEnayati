@@ -53,31 +53,7 @@
 
 ---
 
-### Selected Projects
 
-#### [SalarySystem](https://github.com/ManiEnayati/SalarySystem)
-
-Java desktop application for managing organizations, departments, employees, salary types, and persisted employee records.
-
-**Technologies:** Java, Swing, OOP, File Handling
-
----
-
-#### [SpringLogX](https://github.com/ManiEnayati/SpringLogX)
-
-Spring Boot logging project that demonstrates structured application logging using Log4j2 and asynchronous log delivery to Kafka.
-
-**Technologies:** Java, Spring Boot, Log4j2, Apache Kafka, Maven
-
----
-
-#### [Django Multi-Page Website](https://github.com/ManiEnayati/first-site)
-
-Multi-page Django website with reusable templates, static assets, URL routing, and a separate blog application.
-
-**Technologies:** Python, Django, HTML, CSS
-
----
 
 ### GitHub Activity
 
