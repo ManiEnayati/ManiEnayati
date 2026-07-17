@@ -35,10 +35,8 @@
 
 - 🎓 I am a **B.Sc. Computer Engineering student** at Imam Khomeini International University.
 - 💻 I build backend applications using **Java, Spring Boot, Python, and Django**.
-- 🧑‍💼 I completed a **Java Developer Internship** at Behpardaz Hamrah Samaneh Aval — Behsa.
 - 🌱 I am currently improving my skills in **REST APIs, databases, software testing, and Docker**.
 - 💬 Ask me about **Java, Spring Boot, Django, and backend development**.
-- ⚡ I enjoy transforming complex problems into clean, maintainable software solutions.
 
 ---
 
